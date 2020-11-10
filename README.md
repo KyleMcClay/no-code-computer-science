@@ -6,7 +6,7 @@ description: No Code Computer Science explains CS without coding.
 
 ## What is No Code Computer Science?
 
-No Code Computer Science explains the basics of data structures and algorithms without need to learn a programming language.  
+No Code Computer Science explains the basics of data structures and algorithms without needing to learn a programming language.  
 
 ## Why read this book?
 

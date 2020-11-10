@@ -4,7 +4,7 @@
 * [Data Structures](data-structures/README.md)
   * [Primitive](data-structures/primitives.md)
   * [Array](data-structures/untitled.md)
-  * [Hash Table \(Dictionary\)](data-structures/hash-table-dictionary.md)
+  * [Dictionary \(Hash Map\) \(Hash Table\)](data-structures/hash-table-dictionary.md)
   * [Linked List](data-structures/linked-list.md)
   * [Tree](data-structures/tree.md)
   * [Graph \(network\)](data-structures/graph-network.md)
