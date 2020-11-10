@@ -14,11 +14,11 @@ A primitive is a basic building block of data, the smallest lego brick, the simp
 
 A **Character** is a single letter and can also be a single symbol, or a single number.
 
-'a'       '1'      '?'
+_'a'      '1'      '?'_
 
 A **String** is a series of characters connected together.
 
-"Hello World!"      "jkh1?/5h51"      "aaaaaaaaa"
+_"Hello World!"      "jkh1?/5h51"      "aaaaaaaaa"_
 
 ## Number
 
@@ -36,15 +36,15 @@ A **Boolean** has one of two possible values: True or False.
 
 Common examples IRL:
 
-💡light switch \(on, off\) 💡
+💡_light switch \(on, off\)_ 💡\_\_
 
-🚰water faucet \(open, closed\)🚰 
+🚰_water faucet \(open, closed\)_🚰 __
 
 **Binary** is a number built from two possible values: 1 or 0.
 
-1     0      1010101     1001
+_1     0      1010101     100_1
 
-🖥 A computer converts all information into 1's and 0's stores/manipulates that data and spits back what you see.🖥
+🖥 A computer converts all information into 1's and 0's stores/manipulates that data and spits back what you see. 🖥 
 
 ## Reference \(Pointer\)
 
