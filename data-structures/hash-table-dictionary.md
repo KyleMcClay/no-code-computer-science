@@ -12,7 +12,7 @@ A Dictionary is a collection of key value pairs, meaning in order to access the 
 
 ## Cluster Mailbox <a id="cluster-mailbox"></a>
 
-To access mail \(value\) from the cluster mailbox \(Dictionary\), the information needed would be the correct key. To obtain the mail, to add to the mail, or to change the mail all that is needed is the corresponding key.
+To access, obtain, add, or remove mail \(value\), the information needed is the correct key. 
 
 ## Key -&gt; Value 🔐 
 
@@ -20,17 +20,17 @@ Keys act as unique identifiers to their unique values, similar to a physical key
 
 ## IRL Hypothetical 🛣 
 
-A customer goes into local automotive store. for a recently popped tire, not remembering the date when bought, the warranty offered, or if extra coverage was purchased. The customer asks an employee if his ruined tire is covered. The employee has to look up the information associated with the customer. Normally the **Key** provided is name, and phone number, with this key the employee can access the ****account aka **Value** and find relevant information about the tire purchased. 
+A customer goes into local automotive store. for a recently popped tire, not remembering the date when bought, the warranty offered, or if extra coverage was purchased. The customer asks an employee if his ruined tire is covered. The employee has to look up the information associated with the customer. Normally the **Key** provided is a name and phone number, with this key the employee can access the ****account aka **Value** and find relevant information about the tire purchased. 
 
 ## Hash??? 🚭 
 
-What is meant by hash? A **Hash** is a math-magical way to turn your key into a number \(index\). once the hashing is complete for the key the dictionary is basically an array. This number \(index\) is used to access the value \(item\) in the array.
+What is meant by hash? A **Hash** is a math-magical way to turn your key into a number \(index\). Once the hashing is complete for the key the dictionary is basically an array. This number \(index\) is used to access the value \(item\) in the array.
 
 ## Array vs Dictionary __🍎 🍊 
 
 **Arrays** are used when the data needs to be ordered by number.
 
-_Recipe for Apple Pie: 1. do this 2. do this 3. do this_
+_Recipe for Apple Pie: 1. ingredients 2. bake 3. eat_
 
 _Finish times of a race: 1st place: 10 mins 2nd place: 11 mins, 3rd place 11.1 mins_ 
 
@@ -38,7 +38,7 @@ _Finish times of a race: 1st place: 10 mins 2nd place: 11 mins, 3rd place 11.1 m
 
 _Recipe book: key = 'Apple pie' value = recipe, key = 'meatloaf' value = recipe, key = 'pizza' value = recipe_ 
 
-_Race contestants: key = 'Kyle' value= \[full name, age, weight, race number\] etc_
+_Race contestants: key = 'Kyle' value= \[full name, age, weight, race number, starting time, finished time\]_ 
 
 ## Set 🦄 
 

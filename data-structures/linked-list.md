@@ -12,11 +12,11 @@ A **Linked List** is a linear collection of elements.
 
 ## Level Progression 🕹 
 
-A Linked List is arranged in such a way that in order to obtain the thrid item the second and first must be reached first. In the above picture inorder for Mario to get to Donkey Kong he must travel linearly \(level by level\) up the ladders.  
+A Linked List is arranged in such a way that in order to obtain the third item the first item must be accessed then the second, and finally the third. In the above picture inorder for Mario to get to Donkey Kong he must travel linearly \(level by level\) up the ladders.  
 
 ## How It Works 👉 👉 👉 
 
-Pointers! The first item in the list points to the next item in the list, etc, etc. Each item in the linked list has two different pieces of information, the first where is the next item at, and the second is the stored data. 
+Pointers! The first item in the list points to the next item in the list, the second item in the list points to the third, etc, etc. Each item in the linked list has two different pieces of information, the first piece where is the next item at \(pointer\), and the second is the stored data \(value\). 
 
 ## Flavors of Linked Lists 🍨 
 
@@ -28,9 +28,9 @@ Life: Child -&gt; Teen -&gt; Adult -&gt; Old Adult
 
 _Chain of command:  employee &lt;-&gt; local manager &lt;-&gt; regional Manager &lt;-&gt; CEO_
 
-**Circular-Linked-List:** The access to the list is forward and the list eventually meets up with itself; creates a loop. 👉🎡 
+**Circular-Linked-List:** The access to the list is forward and infinite. The list eventually meets up with itself, creating a loop. 👉🎡 
 
-_Monopoly board game: the access to properties on an never ending circle rentee torture_ 
+_Monopoly board game: the access to properties on an never ending circle, rentee torture_ 
 
 ## Linked List vs Array vs Dictionaries 🍎 🍊 🍑 
 
