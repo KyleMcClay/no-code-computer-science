@@ -6,7 +6,7 @@ description: A primitive is a basic building block of data
 
 ## What is a Primitive?
 
-A primitive is a basic building block of data, the smallest lego brick, the simplest type of data. 
+A **primitive** is a basic building block of data, the smallest lego brick, the simplest type of data. 
 
 ![](../.gitbook/assets/xavi-cabrera-kn-umdzqdjm-unsplash.jpg)
 

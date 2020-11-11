@@ -8,15 +8,15 @@ description: An Array is a collection of elements
 
 An Array is an numbered collection of items.  
 
-![cluster mailbox for an apartment](../.gitbook/assets/pexels-nicole-ashley-rahayu-densmoor-5441974.jpg)
+![Mailboxes](../.gitbook/assets/mathyas-kurmann-fb7ynpbt0l8-unsplash.jpg)
 
-## Cluster Mailbox
+## A Row of Mailboxes
 
-The **array** in the above photo is a cluster mailbox all unlocked. To access mail \(an item\) from the cluster mailbox \(**array**\),  the information needed would be the apartment number. To obtain the mail, to add to the mail, or to change the mail all that is needed is the corresponding number. 
+To access mail \(an item\) from the row of mailboxes \(**array**\),  the only information needed would be the number of the mailbox, with this obtaining the mail, to adding to the mail, or to remove the mail is all possible. 
 
 ## 1 dimensional, 2 dimensional, 3 dimensional...
 
-An **array** can be 1D, 2D, 3D, and beyond. The cluster mailbox in the above example is a 2D **array** because there are mail boxes going left/right and up/down. A 1D **array** would be a row of mailboxes📪📪📪 because it goes only in one direction left/right. furthermore a 3D **array** would be multiple rows of the cluster mailbox because it goes in three directions left/right, up/down, and forward/backward. 
+An **array** can be 1D, 2D, 3D, and beyond. A 1D **array** would be a row of mailboxes📪📪📪 because it goes only in one direction left/right. A 2D **array** the mailboxes were arranged in a left/right and up/down style like an apartment building mail system. Furthermore a 3D **array** would be multiple rows of the 2D mail systems because it goes in three directions left/right, up/down, and forward/backward. 
 
 ## Stacks and Queues
 
