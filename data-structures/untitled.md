@@ -6,7 +6,7 @@ description: An Array is an ordered collection of elements
 
 ## What is an Array? 🥇 🥈 🥉 
 
-An Array is an ordered collection of elements  
+An Array is an ordered collection of elements.
 
 ![Mailboxes](../.gitbook/assets/mathyas-kurmann-fb7ynpbt0l8-unsplash.jpg)
 

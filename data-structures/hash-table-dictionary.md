@@ -8,9 +8,9 @@ description: A Dictionary is a collection of key value pairs
 
 A Dictionary is a collection of key value pairs, meaning in order to access the elements \(value\) a corresponding element \(key\) must be known. 
 
-![Locked Cluster Mailboxes](../.gitbook/assets/tim-evans-uf-c4u1usfq-unsplash.jpg)
+![Cluster Mailboxes Requiring a Key](../.gitbook/assets/tim-evans-uf-c4u1usfq-unsplash.jpg)
 
-## Cluster Mailbox <a id="cluster-mailbox"></a>
+## Cluster Mailbox 🗝 📥 📤  <a id="cluster-mailbox"></a>
 
 To access, obtain, add, or remove mail \(value\), the information needed is the correct key \(key\). 
 

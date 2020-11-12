@@ -8,7 +8,7 @@ description: A primitive is a basic building block of data
 
 A **primitive** is a basic building block of data, the smallest lego brick, the simplest type of data. 
 
-![](../.gitbook/assets/xavi-cabrera-kn-umdzqdjm-unsplash.jpg)
+![Legos](../.gitbook/assets/xavi-cabrera-kn-umdzqdjm-unsplash.jpg)
 
 ## Character & String 💬 
 
@@ -36,6 +36,8 @@ A **Boolean** has one of two possible values: True or False.
 
 Common examples IRL:
 
+ ▶ _music player \(play, pause\)_⏸ __
+
 💡_light switch \(on, off\)_ 💡\_\_
 
 🚰_water faucet \(open, closed\)_🚰 __
@@ -56,7 +58,7 @@ A reference can be thought of as a physical address, an bank account number, bit
 
 ## Story Time: Ancient Atomic Theory⚛
 
-The inventor of atomic theory, Democritus, a Greek philosopher  🤔 who lived in 500 B.C. While Democritus was drinking wine, eating bread and philosophising with friends. He imagined continuously cutting an item in half. if he cut his loaf of bread in two he knew the halves would have the same properties as the whole. If he continued cutting forever he hypothesized a limit where his bread was uncuttable, it was as small as it could possible be, indivisible. These uncuttable pieces he called "atomos"⚛, the Greek word for indivisible.
+The inventor of atomic theory, Democritus, a Greek philosopher  🤔 who lived in 500 B.C. While Democritus was drinking wine, eating bread and philosophising with friends. He imagined continuously cutting an item in half. if he cut his loaf of bread in two he knew the halves would have the same properties as the whole. If he continued cutting forever he hypothesized a limit where his bread was uncuttable, it was as small as it could possible be, indivisible. These uncuttable pieces he called "atomos", the Greek word for indivisible.
 
 > "Nothing exists except atoms and empty space; everything else is opinion."  Democritus
 
