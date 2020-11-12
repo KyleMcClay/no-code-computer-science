@@ -7,7 +7,7 @@
   * [Dictionary \(Hash Map\) \(Hash Table\)](data-structures/hash-table-dictionary.md)
   * [Linked List](data-structures/linked-list.md)
   * [Tree](data-structures/tree.md)
-  * [Graph \(network\)](data-structures/graph-network.md)
+  * [Network \(Graph\)](data-structures/graph-network.md)
 * [Algorithms](algorithms/README.md)
   * [Big O](algorithms/big-o.md)
   * [Greedy](algorithms/greedy.md)

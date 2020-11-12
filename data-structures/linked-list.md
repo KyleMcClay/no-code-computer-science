@@ -6,13 +6,13 @@ description: A Linked List is a linear collection of elements
 
 ## What is a Linked List? ⛓ 
 
-A **Linked List** is a linear collection of elements. 
+A **Linked List** is a sequential collection of nodes. 
 
 ![Mario vs Donkey Kong](../.gitbook/assets/kelly-sikkema-pgtoahfqjq0-unsplash.jpg)
 
 ## Level Progression 🕹 
 
-A Linked List is arranged in such a way that in order to obtain an item in the list, it must be accessed in order from start to the item wanted. for example, hypothetically the third item is wanted. 
+A Linked List is arranged in such a way that in order to obtain an item in the list, it must be accessed in order from start to finish. for example, hypothetically the third item is wanted. 
 
 👾 👉 🤖 👉 🤡 
 

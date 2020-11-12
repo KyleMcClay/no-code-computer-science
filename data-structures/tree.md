@@ -6,7 +6,7 @@ description: A Tree is a collection of elements in a hierarchical tree structure
 
 ## What is a Tree? 🌳 
 
-A **Tree** is a collection of elements in a hierarchical tree structure.
+A **Tree** is a collection of nodes in a hierarchical tree structure.
 
 ![Left or Right?](../.gitbook/assets/pexels-james-wheeler-1578750.jpg)
 
