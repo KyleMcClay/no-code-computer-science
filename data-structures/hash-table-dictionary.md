@@ -12,7 +12,7 @@ A Dictionary is a collection of key value pairs, meaning in order to access the 
 
 ## Cluster Mailbox <a id="cluster-mailbox"></a>
 
-To access, obtain, add, or remove mail \(value\), the information needed is the correct key. 
+To access, obtain, add, or remove mail \(value\), the information needed is the correct key \(key\). 
 
 ## Key -&gt; Value 🔐 
 
