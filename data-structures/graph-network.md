@@ -12,7 +12,7 @@ A Network is a collection of connected nodes.
 
 ## Earth 🌎 🌍 🌏 
 
-Viewing earth from the international space station, there is clusters of light in a sea of black. These pockets of light are highly connected N**etworks** of people and things people make.   
+Viewing earth from the international space station, there is clusters of light in a sea of black. These pockets of light are highly connected **Networks** of people and things people make.   
 
 ## Social Network 🌐 
 
@@ -28,7 +28,7 @@ Family Graph:
 
 Friends Graph:
 
-_childhood_ 🍼 _, work_ 👷♀ _, hobbie_ 🏀 __🎮 __
+_childhood friends_ 🍼 _, work friends_  👷♀ _, hobbie friends_ 🏀 __🎮 __
 
 Dank Meme & Programming Graph: 💯 
 
@@ -56,7 +56,7 @@ _I follow the @PresidentOfTheUnitedStates_ 👉 __
 
 _The President Of The United States does Not follow me_ 🚫 
 
-**Undirected Networks**: connections between nodes flow in all directions 
+**Undirected Networks**: connections between nodes flow in both directions 
 
 Facebooks friend system
 
@@ -64,9 +64,9 @@ Facebooks friend system
 
 ## Linked List vs Tree vs Network🍎 🌲 🌎 
 
-Linked list and Trees can be represented as simple networks. the following example explains the differences between the three as networks.
+Linked list and Trees can be represented as simple networks. The following example explains the differences between the three as different types of networks.
 
-7 Nodes = A, B, C, D, E, F, G
+7 Nodes = A, B, C, D, E, F, G ✴ ✴ ✴ ✴ ✴ ✴ ✴ ✴ 
 
 **Linked Lists:** a simple directed network where each node flows to one other node. 👉
 
@@ -102,7 +102,7 @@ A -> B -> C -> D -> E -> F -> G -> END
                      <-> G <->
 ```
 
-
+The key takeaway is all systems have the same number of _**Nodes**_  but a different number of **Connections.**
 
 
 
