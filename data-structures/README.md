@@ -4,7 +4,7 @@ description: Data Structures are a way to organize and retrieve information.
 
 # Data Structures
 
-## What are Data Structures?
+## What are Data Structures? 🗃 
 
 Data Structures are a way to organize, access, search, add, remove, store, and think about information.
 
@@ -12,25 +12,27 @@ Data Structures are a way to organize, access, search, add, remove, store, and t
 
 ## Lets Go Back to Kindergarten🎒 
 
-_Counting to 10_  ☝✌ 🤟 
+_learning the ABCs and the 123s_ 👶 
 
-**Primitives**: the numbers 1 through 9
-
-**Linked List**: how to count from 1 to 10
+* **Primitives**: the numbers 1 through 9
 
 _Creating a line_ 🍔 ****🚶 🚶♀ 🚶♂ 🚶 🚶♀ 🚶♂ 
 
-**Array**: the way to form a line, who is in front/back of the line, who leaves first/last and how to join a line 
+* **Array**: the way to form a line, who is in front/back of the line, who leaves first/last and how to join a line 
 
 _Storing packed lunches_ 🗝 📥 📤 
 
-**Dictionaries**:  The cubbies that match our name are the cubbies we have access to
+* **Dictionaries**:  The cubbies that match our name are the cubbies we have access to
 
-Teacher student interactions & behavior 👥 
+_counting to 10_ ☝ ✌ 🤟 
 
-**Network**: How students/teachers interact with other students.
+* **Linked List**: how to count from 1 to 10
 
 Finding events in the calendar 📆 
 
-**Tree**: the last day of school is on what year, what month, what day?
+* **Tree**: the last day of school is on what year, what month, what day?
+
+_Teacher student interactions & behavior_ 👥 __
+
+* **Network**: How students/teachers interact with other students.
 
