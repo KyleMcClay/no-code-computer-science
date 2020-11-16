@@ -1,5 +1,5 @@
 ---
-description: A primitive is a basic building block of data
+description: A primitive is a basic building block
 ---
 
 # Primitive
@@ -10,51 +10,79 @@ A **primitive** is a basic building block of data, the smallest lego brick, the 
 
 ![Legos](../.gitbook/assets/xavi-cabrera-kn-umdzqdjm-unsplash.jpg)
 
-## Character & String 💬 
+## Characters & Strings 💬 
 
 A **Character** is a single letter and can also be a single symbol, or a single number.
 
-_'a'      '1'      '?'_
+* '_a'      '1'      '?'_
 
 A **String** is a series of characters connected together.
 
-_"Hello World!"      "jkh1?/5h51"      "aaaaaaaaa"_
+* _"Hello World!"      "jkh1?/5h51"      "aaaaaaaaa"_
 
 ## Number ➕ ➖ 
 
 A **Number** is a unit apart of a mathematical system and subject to rules of addition, multiplication, etc.
 
-**Types of Numbers**: integer, float, fixed, double, real, double precision, int, short, long, byte, etc... common meanings with examples: int = whole number = 42, float = real number = 3.14, long = a big number = 2,147,483,647
+**Types of Numbers**: integer, float, fixed, double, real, double precision, int, short, long, byte, etc... are commonly used data types. 
 
-**Why are there so many?** computers have to store numbers in memory which causes problems in the real world. take the fraction 1/3 = .333 where 3 repeats forever, so this fraction would crash every computer ever built because there is an infinite amount of numbers, which means infinite amount of memory used.
+* _Int = Whole Number = 42_ 🔢 
+* _Float = Real Number = 3.14_ 🥧 
+* _Long = Big Number = 2,147,483,647_ 🐋 
 
-**Note**: The **Character** '1' or a **String** of numbers "102" is not the same as the N**umber** 1 or N**umber** 102.
+**Why are there so many types?:** Storing numbers with the appropriate amount memory saves the computer from using extra resources.
+
+* Fraction = 1/3 = .3333333 ♾ 
+
+🖥The fraction 1/3 would crash every computer ever built if stored as an infinite number because computers have limited space🖥
+
+## Numbers are Not Equal to Strings or Characters 👨⚖ 
+
+A computer treats different types of data differently. The number 1 is not the same as the Character 1. 
+
+* 🚫_Int "1" Not Equal  Chr "1"_ 🚫 __
+* \_\_🚫_Chr "1" Not Equal Int "1"_ 🚫 __
+* \_\_🚫_Float "3.14" Not Equal String "3.14"_ 🚫\_\_
+* \_\_🚫_String "3.14" Not Equal Float "3.14"_ 🚫 __ 
 
 ## Boolean & Binary 🌝 🌚 
 
 A **Boolean** has one of two possible values: True or False.
 
-Common examples IRL:
-
- ▶ _music player \(play, pause\)_⏸ __
-
-💡_light switch \(on, off\)_ 💡\_\_
-
-🚰_water faucet \(open, closed\)_🚰 __
+* ▶ _music player \(play, pause\)_⏸
+* 💡_light switch \(on, off\)_💡\_\_
+* \_\_🚰_water faucet \(open, closed\)_🚰 __
 
 **Binary** is a number built from two possible values: 1 or 0.
 
-_1     0      1010101     100_1
+* _1_
+* _0_
+* _1001001_
+* _1111_
 
 🖥 A computer converts all information into 1's and 0's stores/manipulates that data and spits back what you see. 🖥 
 
-## Reference \(Pointer\)👉 
+## Reference \(Pointer\)👉🏠 
 
-A **Reference** is where a specific type of data is in memory
+A **Reference** is where a piece of data is in memory
 
-A reference can be thought of as a physical address, an bank account number, bitcoin wallet, or a venmo/cashapp/zelle address.   
+```text
+Address =   1   2   3
+          +---+---+---+
+Data =    | a | b | c |
+          +---+---+---+
+```
 
-💸 Modern day peer-to-peer mobile payment apps are good example because you dont know whats in someone elses account but you do know how to request money or send money to account💸 
+1. _I want the data at address 2_
+2. _I use the reference number 2_
+3. _I get the data I want 'b'_
+
+A reference can be thought of as a physical address, a bank account number, a bitcoin wallet, or venmo/cashapp/zelle address.   
+
+* Citing original sources in a research paper 📜 
+* Paying a friend back for pizza using venmo 🍕 
+
+💸 peer-to-peer mobile payment apps are good examples because you dont know whats in someone elses account but you do know how to request money or send money to that account💸 
 
 ## Story Time: Ancient Atomic Theory⚛
 

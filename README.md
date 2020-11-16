@@ -12,7 +12,7 @@ This book is made for anyone who wants an intuition on how data structures and a
 
 ## Who is this book made for? 🌱 
 
-This book is made for people who want to understand the basics of CS such as CS students, problem solvers, & those who work with programmers.
+This book is made for people who want to understand the basics of computer science such as students, problem solvers & those who work with programmers.
 
 ## Read it on GitBook! 🤟 
 
@@ -22,7 +22,7 @@ If on github click the link below [No Code Computer Science Gitbook](https://ksm
 
 😞 I'm a poor & have a physical labor job 😄 
 
-I created this book to give back to the community and actually finish a personal project. 
+I created this book to give back to the community and actually finish a project. 
 
 🤑I'm trying to break into the world of software, so give me a job here  
 
