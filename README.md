@@ -20,19 +20,20 @@ If on github click the link below [No Code Computer Science Gitbook](https://ksm
 
 ## 🧙♂About Me 🧙♂ 
 
-😞 I'm a poor & have a physical labor job 😄 
+Im a Wizard Harry!!! ohh wait...
+
+* 😞 I'm a poor & have a physical labor job 😄 
 
 I created this book to give back to the community and actually finish a project. 
 
-🤑I'm trying to break into the world of software, so give me a job here  
-
-[https://www.linkedin.com/in/kylewins/](https://www.linkedin.com/in/kylewins/)
-
-🗣 Send me a shoutout or start up a chat: 
-
-Twitter @KyleMcClay [https://twitter.com/KyleMcCLay](https://twitter.com/KyleMcCLay)
+* 🤑I'm trying to break into the world of software, so give me a job here
+  * [https://www.linkedin.com/in/kylewins/](https://www.linkedin.com/in/kylewins/)
+* 🗣 Send me a shoutout or start up a chat: 
+  * Twitter @KyleMcClay [https://twitter.com/KyleMcCLay](https://twitter.com/KyleMcCLay)
 
 ## License 📃 📃 📃 📃 📃 📃 📃 📃
 
-This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/)
+This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license visit. 
+
+* [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/)
 
