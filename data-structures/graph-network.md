@@ -50,7 +50,7 @@ Networks are used to represent more complicated relationships and normally used 
 **Undirected Networks**: connections between nodes flow in both directions
 
 * Facebooks friend system
-  * 🌐_I send a friend request to uncle Jim Bob and he accepts_🌐
+  * _I send a friend request to uncle Jim Bob and he accepts_ 👯♂ 
 
 ## Linked List vs Tree vs Network🍎 🌲 🌎 
 
@@ -58,17 +58,17 @@ Linked list and Trees can be represented as simple networks. The following examp
 
 **Example:**
 
-* 7 Nodes = A, B, C, D, E, F, G ✴ ✴ ✴ ✴ ✴ ✴ ✴ ✴ 
+* _7 Nodes = A, B, C, D, E, F, G_ ✴ __✴ __✴ __✴ __✴ __✴ __✴ __✴ __
 
-**Linked Lists:** a simple directed network where each node flows to one other node. 👉
+**Linked Lists:** a simple directed network where each node flows to the next node. 👉
 
 * ```
   (start) A -> B -> C -> D -> E -> F -> G -> END
   ```
 
-**Trees:** are a directed network where the starting node flows in one direction to multiple nodes 👈👉 
+**Trees:** are a directed network where the starting node flows down to multiple nodes 👈👉 
 
-*   ```text
+* ```text
                         (start)
                            A 
                            '
@@ -98,7 +98,7 @@ Linked list and Trees can be represented as simple networks. The following examp
                       ---- G ----
   ```
 
-The key takeaway is all systems have the same number of _**Nodes**_  but a different number of **Connections.**
+The key takeaway is all systems have the same number of **Nodes** but a different number of **Connections**, the **Connections** are what make the data structure a linked list, tree or network**.**
 
 
 
