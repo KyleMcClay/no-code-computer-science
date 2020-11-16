@@ -8,7 +8,7 @@ No Code Computer Science explains the general idea of data structures and algori
 
 ## Why read this book? 🤯 
 
-This book is made for anyone who wants an intuition on how data structures and algorithms work.
+This book is made for anyone who wants an intuition or primer on how data structures and algorithms work.
 
 ## Who is this book made for? 🌱 
 
