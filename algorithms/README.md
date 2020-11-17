@@ -6,7 +6,7 @@ description: Instructions to solve a class of problems
 
 ## Algorithms
 
-Algorithms are Instructions to solve a class of problems. 
+Algorithms are instructions to solve a class of problems. 
 
 ![Recipe \(Algorithm\) for Baking Cookies](../.gitbook/assets/monika-grabkowska-neu4t59mtcy-unsplash.jpg)
 

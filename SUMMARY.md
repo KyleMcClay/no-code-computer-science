@@ -9,7 +9,7 @@
   * [Tree](data-structures/tree.md)
   * [Network \(Graph\)](data-structures/graph-network.md)
 * [Algorithms](algorithms/README.md)
-  * [Big O](algorithms/big-o.md)
+  * [Big O Notation](algorithms/big-o.md)
   * [Greedy](algorithms/greedy.md)
   * [Divide & Conquer](algorithms/divide-and-conquer.md)
   * [Sort](algorithms/sort.md)
