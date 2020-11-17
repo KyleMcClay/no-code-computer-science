@@ -2,7 +2,7 @@
 
 ## What is No Code Computer Science? 🎰 
 
-No Code Computer Science explains the general idea of data structures and algorithms without needing to learn a programming language and with lots of pics.
+No Code Computer Science explains the basic principles of data structures and algorithms without using cryptic programming languages.
 
 ![Down the Rabbit Hole](.gitbook/assets/pexels-frank-cone-3573555.jpg)
 
@@ -22,7 +22,7 @@ If on github click the link below [No Code Computer Science Gitbook](https://ksm
 
 Im a Wizard Harry!!! ohh wait...
 
-* 😞 I'm a poor & have a physical labor job 😄 
+* 😞 I'm a poor & have a labor job 😄 
 
 I created this book to give back to the community and actually finish a project. 
 
