@@ -6,7 +6,7 @@ description: A Greedy Algorithm takes the best option available
 
 ## Greedy 🤑 
 
-A Greedy Algorithm always takes the best possible option available currently.
+A Greedy Algorithm always takes the best possible option currently available.
 
 ![Wall Street Bull](../.gitbook/assets/alec-favale-9li7kvwxvx0-unsplash.jpg)
 
@@ -16,14 +16,14 @@ A Greedy Algorithm always takes the best possible option available currently.
 
 * Unicorn.com Inc 🦄 
 * Insider Trading Information🕵♂ 
-  * Known Future Stock Prices 5 Days 
+  * Known Future Stock Prices Next 5 Days 
   * $11, $8, $18, $4, $12
 * Unicorn.com Trading Algorithm 🤖 
   * Buy if the Price goes up Tomorrow
   * Sell if the Price goes down Tomorrow
 * Sample Trading 🕓 
   * $11, $8, $18, $4, $12
-* The Greedy Trading Bot🤖 
+* Transaction Logs of Bot🤖 
   * $11 = Nothing
   * $08 = Buys 
   * $18 = Sells 
@@ -37,7 +37,7 @@ A Greedy Algorithm always takes the best possible option available currently.
 
 \*\*\*\*🕹**Lets Make a Super Mario Bros Algorithm**🕹\*\*\*\*
 
-The **Greedy** algorithm is trying to beat the Super Mario as fast as possible. Rules: Mario always runs forward and jumps on enemies & always jumps over obstacles. The greedy part of the algorithm is always greedily moving forward because it seems to be the fastest way to complete the level.
+The **Greedy** algorithm is trying to beat the Super Mario as fast as possible. Algorithm Rules: Mario always runs forward, jumps on enemies & jumps over obstacles. The greedy part of the algorithm is always greedily moving forward, this was chosen because it seems to be the fastest way to complete the level.
 
 * Good👾 
   * Simple strategy, easy to implement

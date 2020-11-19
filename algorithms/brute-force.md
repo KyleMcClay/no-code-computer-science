@@ -1,5 +1,5 @@
 ---
-description: Brute Force = Try Everything
+description: A Brute Force Algorithm Tries Everything
 ---
 
 # Brute Force
