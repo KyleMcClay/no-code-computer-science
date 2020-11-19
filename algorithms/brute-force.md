@@ -4,11 +4,13 @@ description: Brute Force = Try Everything
 
 # Brute Force
 
+## Brute Force🦍
+
 A **Brute Force** Algorithm tries every possible combination in a problem for a solution.
 
 ![](../.gitbook/assets/pexels-pixabay-40721.jpg)
 
-## What's your pin number? 🛍 🛒 
+## What's your pin number? 💳 🛍 🛒 
 
 A **Brute Force** algorithm tries every possible combination to guess a correct pin number
 

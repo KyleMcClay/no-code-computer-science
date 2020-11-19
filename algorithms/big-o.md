@@ -4,7 +4,7 @@ description: Big O Notation measures relative time of algorithms completion
 
 # Big O Notation
 
-## Big O Notation
+## Big O Notation ⏱ 
 
 Big O Notation classifies types of algorithms by the length of time it takes to complete. 
 
