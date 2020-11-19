@@ -27,7 +27,7 @@ The point of Big O Notation is to give the user an idea of how fast or slow an a
 
 Big O Notation works by approximating the total amount of steps an algorithm will take. 
 
-lets create a list ****of the numbers 1 through 100, & make a step equal a second.
+lets create a list ****of the numbers 1 through 100 & make a step equal a second.
 
 ```text
 Array = [1,2,3..99,100]
@@ -67,5 +67,5 @@ Array = [1,2,3..99,100]
     * \[1+2+3..100\] + \[2+3+4..100\] + \[3+4+5..100\]...
     * 5050 steps🕓_Hours_
 
-♾I_mportant to note as the size of the data grows the slow Big O algorithms times approach infinite time_ ♾ 
+♾I_mportant to note as the size of the data grows, slow Big O algorithms run times approach infinity_ ♾ 
 
