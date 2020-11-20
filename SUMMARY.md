@@ -13,9 +13,9 @@
   * [Brute Force](algorithms/brute-force.md)
   * [Greedy](algorithms/greedy.md)
   * [Divide & Conquer](algorithms/divide-and-conquer.md)
-  * [Backtracking](algorithms/backtracking.md)
   * [Sort](algorithms/sort.md)
   * [Search](algorithms/search.md)
+  * [Backtracking](algorithms/backtracking.md)
   * [Dynamic Programming](algorithms/dynamic-programming.md)
   * [Math](algorithms/math.md)
 

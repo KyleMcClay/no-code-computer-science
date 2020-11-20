@@ -1,12 +1,12 @@
 ---
-description: A Network is a collection of connected elements
+description: A Network is a collection of connected nodes
 ---
 
 # Network \(Graph\)
 
 ## What is a Network \(Graph\) 🎆 
 
-A Network is a collection of connected nodes.
+A Network is a collection of connected nodes. nodes = elements
 
 ![Courtesy of NASA taken from ISS](../.gitbook/assets/iss035e017619_orig.jpg)
 
@@ -87,8 +87,8 @@ Linked list and Trees can be represented as simple networks. The following examp
   - = 2-way connection
   ' = 2-way connection
   x = 4-way connection
-  No (start)
-  No (end)
+  No start 
+  No end
   ```
 * ```
                      A  -  B  -  C
@@ -98,7 +98,7 @@ Linked list and Trees can be represented as simple networks. The following examp
                       ---- G ----
   ```
 
-The key takeaway is all systems have the same number of **Nodes** but a different number of **Connections**, the **Connections** are what make the data structure a linked list, tree or network**.**
+The key takeaway is all systems have the same number of **Nodes** but a different number of **Connections.** The **Connections** are what make the data structure a linked list, tree or network**.**
 
 
 

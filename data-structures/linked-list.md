@@ -1,12 +1,12 @@
 ---
-description: A Linked List is a linear collection of elements
+description: A Linked List is a linear collection of nodes
 ---
 
 # Linked List
 
 ## What is a Linked List? ⛓ 
 
-A **Linked List** is a sequential collection of nodes. 
+A **Linked List** is a sequential collection of nodes. nodes = elements
 
 ![Mario vs Donkey Kong](../.gitbook/assets/kelly-sikkema-pgtoahfqjq0-unsplash.jpg)
 
