@@ -4,13 +4,15 @@ description: A Divide & Conquer Algorithm converts a big problem to small proble
 
 # Divide & Conquer
 
-A **Divide & Conquer** Algorithm divides big problem into small problems and solves smaller problems.
+## **Divide & Conquer** ➗ 🔫 
+
+A **Divide & Conquer** Algorithm divides a big problem into small problems and solves the smaller problems.
 
 ![](../.gitbook/assets/pexels-rene-asmussen-3990359.jpg)
 
 ## Building a House 🏡
 
-A **Divide & Conquer** Algorithm divides building a house into smaller subproblems.
+👷 A **Divide & Conquer** Algorithm divides building a house into smaller subproblems. 👷♀ 
 
 1. Design
 2. Foundation
@@ -21,7 +23,7 @@ A **Divide & Conquer** Algorithm divides building a house into smaller subproble
 7. Flooring & Countertops
 8. Trim, Doors & Fixtures
 
-A construction site would break this subproblems into different careers by **Dividing & Conquering.**
+🏗 A construction site would break these subproblems into different careers by **Dividing & Conquering.**🏗 
 
 1. Architect
 2. Contractor
@@ -32,8 +34,4 @@ A construction site would break this subproblems into different careers by **Div
 7. General Laborer
 
 🕵♀**Divide & Conquer** is one of the most useful and common problem solving skills🕵♀
-
- 
-
-
 

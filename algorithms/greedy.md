@@ -31,7 +31,7 @@ A **Greedy** Algorithm always takes the best possible option available.
   * $18 = Sells 
   * $04 = Buys
   * $12 = Sells
-  * Profit = 12 - 4 + 18-8 = $16
+  * Profit = 18-8 + 12-4 = $16
 
 🦊This strategy is the best possible option for this problem but can break down on different types of problems🦊 
 

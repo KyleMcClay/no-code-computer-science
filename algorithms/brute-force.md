@@ -24,6 +24,7 @@ Start with 0000
 Add 1 & Try Pin 
 Repeat 
 
+0000 -> 0001 -> 0002...9998 -> 9999
 10,000 possible pin numbers
 ```
 
