@@ -25,15 +25,15 @@ In a **Binary** \(left or right\) **Tree**,
 The root node connects to a left node and a right node. The left node then connects to a left node and a right node. The right node also connects to a left node and a right node. and etc etc...
 
 ```text
-                               Start
-                                 '
-                        -------------------
-                       '                   '
-                       A                   B
-                       '                   '
-                  -----------         -----------
-                 '           '       '           '
-                 C           D       E           F
+             Start
+               '
+       -------------------
+      '                   '
+      A                   B
+      '                   '
+ -----------         -----------
+'           '       '           '
+C           D       E           F
 ```
 
 ## Folder -&gt; Folder -&gt; File 📁 📂 

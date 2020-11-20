@@ -69,16 +69,16 @@ Linked list and Trees can be represented as simple networks. The following examp
 **Trees:** are a directed network where the starting node flows down to multiple nodes 👈👉 
 
 * ```text
-                        (start)
-                           A 
-                           '
-                  -------------------
-                 '                   '
-                 B                   C
-                 '                   '
-            -----------         -----------
-           '           '       '           '
-           D           E       F           G
+             (start)
+                A 
+                '
+        -------------------
+       '                   '
+       B                   C
+       '                   '
+   -----------         -----------
+  '           '       '           '
+  D           E       F           G
   ```
 
 **Networks:** can be used to diagram highly connected systems👈👉👆👇🤙
@@ -91,11 +91,11 @@ Linked list and Trees can be represented as simple networks. The following examp
   No end
   ```
 * ```
-                     A  -  B  -  C
-                     '  x  '  x  '
-                     D  -  E  -  F
-                     '  x  '  x  '
-                      ---- G ----
+  A  -  B  -  C
+  '  x  '  x  '
+  D  -  E  -  F
+  '  x  '  x  '
+  ----- G -----
   ```
 
 The key takeaway is all systems have the same number of **Nodes** but a different number of **Connections.** The **Connections** are what make the data structure a linked list, tree or network**.**

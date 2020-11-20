@@ -25,9 +25,8 @@ An **array** can be 1D, 2D, 3D, and beyond.
   * 📪📪📪
   * 📪📪📪
 * 3D **array** would be multiple columns of multiple rows of multiple mailboxes \(left/right & up/down & forward/backward\)
-  * 📪📪📪     📪📪📪        📪📪📪
-  * 📪📪📪     📪📪📪        📪📪📪
-  * 📪📪📪     📪📪📪        📪📪📪        
+  * 📪📪     📪📪     📪📪
+  * 📪📪     📪📪     📪📪       
 
 ## Stacks and Queues🍎 🍊 
 
