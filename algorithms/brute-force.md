@@ -4,7 +4,7 @@ description: A Brute Force Algorithm Tries Everything
 
 # Brute Force
 
-## Brute Force🦍
+## What is a Brute Force Algorithm?🦍
 
 A **Brute Force** Algorithm tries every possible combination in a problem for a solution.
 

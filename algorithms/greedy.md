@@ -4,7 +4,7 @@ description: A Greedy Algorithm takes the best option available
 
 # Greedy
 
-## Greedy 🤑 
+## What is a Greedy Algorithm? 🤑 
 
 A **Greedy** Algorithm always takes the best possible option available.
 

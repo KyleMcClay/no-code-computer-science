@@ -12,7 +12,7 @@ A **Linked List** is a sequential collection of nodes. nodes = elements
 
 ## Level Progression 🕹 
 
-A Linked List is arranged in such a way that in order to obtain an item in the list, it must be accessed in order from start to finish. for example, hypothetically the third item is wanted. 
+A Linked List is arranged in such a way that in order to obtain an item in the list, it must be accessed in order from start to finish. for example, the third item🤡is wanted. 
 
 * 👾 👉 🤖 👉 🤡
 * _The first item must be accessed, then the second, and finally the third now can be accessed._ 
@@ -23,8 +23,8 @@ A Linked List is arranged in such a way that in order to obtain an item in the l
 
 Pointers! The first item in the list points to the next item in the list, the second item in the list points to the third, etc, etc. Each item in the linked list has two different pieces of information: 
 
-* _where is the next item at? \(pointer\)_
-* _stored data \(value\)_
+* _where is the next item at? \(pointer\)_👉
+* _stored data \(value\)_ 💾 
 
 ## Flavors of Linked Lists 🍨 
 

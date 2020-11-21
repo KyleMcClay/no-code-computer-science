@@ -4,7 +4,7 @@ description: Instructions to solve a class of problems
 
 # Algorithms
 
-## Algorithms
+## What are Algorithms? 🥬 🍅🔪 🥗 
 
 Algorithms are instructions to solve a class of problems. 
 

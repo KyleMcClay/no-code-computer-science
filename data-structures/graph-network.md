@@ -16,7 +16,7 @@ Viewing earth from the international space station, there is clusters of light i
 
 ## Social Network 🌐 
 
-A **Social Network** is a groups of people connected together. 
+A **Social Network** is groups of people connected together. 
 
 ![Each Line is Equal to a Friendship](../.gitbook/assets/163413_479288597199_8388607_n.jpg)
 
@@ -29,7 +29,7 @@ Kyle's Facebook Friend Profile: 🌐
 * Dank Meme & Programming Network: 💯 
   * 😜 _weirdos_ 🤪 _more weirdos_ 🤥 __
 
-I'm personally connected to all these people above in a Network. All of the people im connected to are also connected to their own people. and all of those people are... etc etc etc 
+I'm personally connected to all these people above in a **Network**. All of the people im connected to are also connected to their own people. and all of those people are... etc etc etc 
 
 ## I Need a Map, A Map of the Internet! 🧠
 
@@ -39,7 +39,7 @@ Networks are used to represent more complicated relationships and normally used 
 
 ## Types of Networks 🌬 🌪 
 
-**Directed Networks**: connections between nodes flow in a specific direction 
+**Directed Networks**: Connections between nodes flow in a specific direction 
 
 * Water always flows in one direction from a higher point to a lower point 
   * 🏞 _Water Tower -&gt; Homes -&gt; Sewer_ 🏞 
@@ -47,7 +47,7 @@ Networks are used to represent more complicated relationships and normally used 
   * _I follow the @PresidentOfTheUnitedStates_ 👉 __
   * _The President Of The United States does Not follow me_ 🚫 
 
-**Undirected Networks**: connections between nodes flow in both directions
+**Undirected Networks**: Connections between nodes flow in both directions
 
 * Facebooks friend system
   * _I send a friend request to uncle Jim Bob and he accepts_ 👯♂ 
