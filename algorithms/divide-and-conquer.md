@@ -23,7 +23,7 @@ A **Divide & Conquer** Algorithm divides a big problem into small problems and s
 7. Flooring & Countertops
 8. Trim, Doors & Fixtures
 
-🏗 A construction site would break these subproblems into different careers by **Dividing & Conquering.**🏗 
+🏗 A construction site would break these subproblems into different careers to solve each problem**.**🏗 
 
 1. Architect
 2. Contractor
