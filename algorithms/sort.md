@@ -16,19 +16,19 @@ A **Sorting** Algorithm takes a disorder group and orders the group.
 
 **Insertion Sort:**  
 
-1. _Create a new list_
-2. _pull first item off of unsorted list_
-3. _put it in the correct order of new list_
-4. _repeat 2 & 3_
+1. Create a new list
+2. Pull first item off of unsorted list
+3. Put it in the correct order of new list
+4. Repeat 2 & 3
 
 **Example:**
 
-* \_\_💷_\[$5, $1, $10, $1, $5\]_
-* _\[$5\]_💷_\[$1, $10, $1, $5\]_
-* _\[$1, $5\]_💷_\[$10, $1, $5\]_
-* _\[$1, $5, $10\]_💷_\[$1, $5\]_
-* _\[$1, $1, $5, $10\]_💷_\[$5\]_
-* _\[$1, $1, $5, $5, $10\]_ 💷\_\_
+* 💷\[$5, $1, $10, $1, $5\]
+* \[$5\]💷\[$1, $10, $1, $5\]
+* \[$1, $5\]💷\[$10, $1, $5\]
+* \[$1, $5, $10\]💷\[$1, $5\]
+* \[$1, $1, $5, $10\]💷\[$5\]
+* \[$1, $1, $5, $5, $10\] 💷
 
 🃏 This type of sorting algorithm is commonly used in playing card games, & organizing cash in wallets🃏
 
@@ -39,25 +39,25 @@ A **Sorting** Algorithm takes a disorder group and orders the group.
 **Divide & Conquer Sort:**
 
 1. _Split Lists in Half_
-2. ^ Repeat Step 1 ^
-3. Merge & Sort 
-4. ^ Repeat Step 3 ^
+2. _^ Repeat Step 1 ^_
+3. _Merge & Sort_ 
+4. _^ Repeat Step 3 ^_
 
 **Example:**
 
-* 💸_\[$5, $1, $10, $1, $20, $5, $1 $20\]_💸 
-* _\[$5, $1, $10, $1\]_ 💵\[$20, $5, _$1, $20\]_
-* _\[$5, $1\]_💵_\[$10, $1\]_💵\[_$20, $5\]_💵\[_$1 $20\]_
-* 💸_Sort Lists_ 💸 
-* _\[$1 $5\]_💵_\[$1, $10\]_💵\[_$5, $20\]_💵\[_$1 $20\]_
-* 💸_Merge Lists_💸 
-* _\[$1 $5, $1, $10\]_💵\[_$5, $20, $1 $20\]_
-* 💸_Sort Lists_💸 
-* _\[$1 $1, $5, $10\]_💵\[_$1 $5, $20 $20\]_
-* 💸_Merge Lists_💸 
-* _\[$1 $1, $5, $10, $1 $5, $20 $20\]_
-* 💸_Sort Lists_💸
-*  \[_$1 $1, $1, $5, $5 $10, $20 $20\]_
+* ➡= **Sorting**
+* \*\*\*\*➕= **Merging**
+* _$5, $1, $10, $1, $20, $5, $1 $20_
+  * _$5,  $1_  ➡ _$1, $5_  
+  * _$10, $1_ ➡_$1, $10_ 
+  * _$20, $5_ ➡$5, $20 
+  * _$1, $20_ ➡$1, $20
+* _$1, $5_ ➕_$1,  $10_ 
+  * \_\_➡_$1 $1, $5, $10_
+* _$1, $5_ ➕_$20, $20_
+  * \_\_➡_$1, $5, $20, $20_
+* _$1 $1, $5, $10_➕_$1, $5, $20, $20_
+  * ​➡_$1 $1, $1, $5, $5 $10, $20 $20_
 
 📕This type of sorting algorithm is commonly used when sorting big lists like the Library of Congress 15,000 book returns per day.📕 
 
