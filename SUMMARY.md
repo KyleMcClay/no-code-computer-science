@@ -15,6 +15,4 @@
   * [Divide & Conquer](algorithms/divide-and-conquer.md)
   * [Sort](algorithms/sort.md)
   * [Search](algorithms/search.md)
-  * [Dynamic Programming](algorithms/dynamic-programming.md)
-  * [Math](algorithms/math.md)
 
