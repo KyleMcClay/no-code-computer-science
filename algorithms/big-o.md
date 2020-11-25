@@ -34,15 +34,15 @@ Array = [1,2,3..99,100]
 1 step = 1 second
 ```
 
-* O\(1\)➡O of 1 🚀 
-  * Fastest Completion Time Possible 💯 
-  * Fixed Amount of Steps \(a few steps\) 👣 
-  * Example Algorithms✍
+* O\(1\)🚀 
+  * Fastest Completion Time Possible 
+  * Fixed Amount of Steps \(a few steps\) 
+  * Example Algorithms
     * Add the first and last number
     * 1 + 100
     * 2 steps ⏲ _seconds_ 
-* O\(log\(N\)\)➡O of log N 🛩 
-  * Fast Completion Time💯 
+* O\(log\(N\)\) 🛩 
+  * Fast Completion Time
   * Steps continually split in half with size of data \(log of data\)👣
   * Example Algorithms✍
     * Add middle of the array 

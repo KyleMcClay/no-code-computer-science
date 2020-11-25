@@ -1,24 +1,35 @@
 ---
-description: A Greedy Algorithm takes the best option available
+description: A Greedy Algorithm chooses the best local option
 ---
 
 # Greedy
 
 ## What is a Greedy Algorithm? 🤑 
 
-A **Greedy** Algorithm always takes the best possible option available.
+A **Greedy** Algorithm always takes the best possible local option available.
 
 ![Wall Street Bull](../.gitbook/assets/alec-favale-9li7kvwxvx0-unsplash.jpg)
 
-##  Wall Street Trading Algorithm 💸 
+## Greedy is Good? 🤩 
 
-🤖**Lets Create A Wall Street Trading Bot**🤖 
+A Greedy algorithm is very useful when choosing between right and wrong choices and choices that will remain the same. 
 
-* Unicorn.com Inc 🦄 
-* Insider Trading Information🕵♂ 
-  * Known Future Stock Prices Next 5 Days 
+* Good 😄 
+  * Choosing career based on total salary
+  * Choosing meal based on the biggest size
+  * Choosing a product based on price
+* Bad 🤮 
+  * Choosing career based on happiness
+  * Choosing meal based on taste
+  * Choosing a product based on quality
+
+## 🤖**Lets Create A Wall Street Trading Bot**🤖 
+
+The wall street trading bot is using a simple **Greedy** algorithm which is: _Buy Low & Sell High_. With this greedy algorithm the trading bot plans to maximize profit. To give the bot a chance against all of the wall street pros. The bot will be given the next five days of stock prices for a specific company. 
+
+* Stock prices for the next 5 days 
   * $11, $8, $18, $4, $12
-* Unicorn.com Trading Algorithm 🤖 
+* Trading Algorithm 🤖 
   * Buy Today 
     * if the Price Increases Tomorrow
   * Sell Today 
@@ -35,22 +46,33 @@ A **Greedy** Algorithm always takes the best possible option available.
 
 🦊This strategy is the best possible option for this problem but can break down on different types of problems🦊 
 
-## Good, Bad, & The Ugly 🤠 
+## \*\*\*\*🕹**Lets Make a Super Mario Bros Algorithm**🕹\*\*\*\*
 
-\*\*\*\*🕹**Lets Make a Super Mario Bros Algorithm**🕹\*\*\*\*
+The **Greedy** algorithm is trying to beat the Super Mario game as fast as possible. The algorithm must obey the rules we set. Algorithm Rules:
 
-The **Greedy** algorithm is trying to beat the Super Mario game as fast as possible. Algorithm Rules: Mario always runs forward, jumps on enemies & jumps over obstacles. The greedy part of the algorithm is always "greedily" moving forward, this was chosen because it seems to be the fastest way to complete the level.
+* Mario always runs forward
+* Mario always jumps on or over enemies
+* Mario always jumps over obstacles
+
+The **greedy** part of the algorithm is always "greedily" moving forward, this was chosen because it seems to be the fastest way to complete the level.
 
 * Good👾 
-  * Simple strategy, easy to implement
-  * Should work, seems plausible
+  * Simple strategy
+  * Easy to implement
+  * Mario will be fast
 * Bad 💩 
-  * Will miss every secret & all bonus content
-  * There are faster solutions with shortcuts
+  * Mario will **Not** find 
+    * Secrets
+    * Bonus content
+  * Faster solutions are possible with shortcuts
 * Ugly☠ 
-  * Getting Stuck Forever
-    * Hole \(cant go back\)
-    * Boss \(jumping on boss wont work\)
+  * Unforeseen Circumstance
+    * Unique enemy \(Bowser\)
+      * Can **Not** defeat using normal jump attacks
+    * Unique level \(Swim\) 
+      * Can **Not** navigate using normal controls
+    * Unique puzzle \(collect keys\)
+      * Can **Not** win without doing something
 
-\_\_💰 A **Greedy** Algorithm can be short sighted💰 
+\_\_💰A **Greedy** Algorithm can be short sighted💰 
 

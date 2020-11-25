@@ -38,26 +38,32 @@ A **Sorting** Algorithm takes a disorder group and orders the group.
 
 **Divide & Conquer Sort:**
 
-1. _Split Lists in Half_
-2. _^ Repeat Step 1 ^_
-3. _Merge & Sort_ 
-4. _^ Repeat Step 3 ^_
+1. Split Lists in Half
+2. ^ Repeat Step 1 ^
+3. Merge & Sort 
+4. ^ Repeat Step 3 ^
 
 **Example:**
 
-* ➡= **Sorting**
-* \*\*\*\*➕= **Merging**
-* _$5, $1, $10, $1, $20, $5, $1 $20_
-  * _$5,  $1_  ➡ _$1, $5_  
-  * _$10, $1_ ➡_$1, $10_ 
-  * _$20, $5_ ➡$5, $20 
-  * _$1, $20_ ➡$1, $20
-* _$1, $5_ ➕_$1,  $10_ 
-  * \_\_➡_$1 $1, $5, $10_
-* _$1, $5_ ➕_$20, $20_
-  * \_\_➡_$1, $5, $20, $20_
-* _$1 $1, $5, $10_➕_$1, $5, $20, $20_
-  * ​➡_$1 $1, $1, $5, $5 $10, $20 $20_
+```text
+                Array
+                  '
+          -------------------
+         '                   '
+       Half                Half
+         '                   '
+    -----------         -----------
+   '           '       '           '
+Quarter    Quarter   Quarter    Quarter 
+   '           '       '           '
+    -----------         -----------
+         '                   '
+   Sorted Half         Sorted Half
+         '                   '
+          -------------------
+                  '
+            Sorted Array
+```
 
 📕This type of sorting algorithm is commonly used when sorting big lists like the Library of Congress 15,000 book returns per day.📕 
 

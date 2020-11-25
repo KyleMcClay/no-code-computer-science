@@ -4,7 +4,7 @@ description: A Divide & Conquer Algorithm converts a big problem to small proble
 
 # Divide & Conquer
 
-## What is a **Divide & Conquer Algorithm?** ➗ 🔫 
+## What is a **Divide & Conquer Algorithm?** ➗ ⚔ 
 
 A **Divide & Conquer** Algorithm divides a big problem into small problems and solves the smaller problems.
 
