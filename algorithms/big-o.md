@@ -6,7 +6,7 @@ description: Big O Notation classifies types of algorithms by there speed.
 
 ## What is Big O Notation? ⏱ 
 
-**Big O Notation** classifies types of algorithms by there speed. Big O Notation is used to determine how long an algorithm will take to complete
+**Big O Notation** classifies types of algorithms by there speed. Big O Notation is used to determine how long an algorithm will take to complete.
 
 ![](../.gitbook/assets/nathan-dumlao-5hl5reicevy-unsplash.jpg)
 
@@ -25,9 +25,7 @@ The point of **Big O Notation** is to give the user an idea of how fast or slow 
 
 ## Math without the Math 🤔 
 
-**Big O Notation** works by approximating the total amount of steps an algorithm will take. 
-
-lets create a list ****of the numbers 1 through 100
+**Big O Notation** works by approximating the total amount of steps an algorithm will take. lets create a list ****of the numbers 1 through 100 and classify different algorithms by their speed.
 
 ```text
 Array = [1,2,3..99,100]
