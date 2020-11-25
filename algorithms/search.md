@@ -46,32 +46,76 @@ Binary Search:
 10,15,14
 ```
 
-## 🌧BFS: Breadth First Search & DFS: Depth First Search🌩 
+## 🌧BFS: Breadth First Search vs DFS: Depth First Search🌩 
 
-🌧**BFS**: Breadth First Search algorithm _**Flows**_ in every direction evenly.
+🌧**BFS**: Breadth First Search algorithm _**Flows**_ in every direction evenly to find the item. In a tree data structure for example it would search for the item in all the nodes by each level\(floor\). Dropping one level & then explore all nodes, dropping one level then explore all nodes, etc..
 
-🌩**DFS**: Depth First Search algorithm _**Strikes**_ each direction one by one.
+* Tree branches growing out
+* Root system expanding out
 
-* A person trying a maze
-  * tryone direction 
+ 🌩**DFS**: Depth First Search algorithm _**Strikes**_ each direction one by one to find the item. In a tree data structure for example it would search for the item by exploring a branch all the way to the bottom of a tree then trying a different branch all the way to the bottom.
 
+* Lightning strikes
 
+**Example Tree**
 
 ```text
-             Start
-               '
-       -------------------
-      '                   '
-      A                   B
-      '                   '
- -----------         -----------
-'           '       '           '
-C           D       E           F
+        A Tree Data Structure
+                Start
+                  '
+         -------------------
+        '                   '
+        *                   *
+        '                   '
+   ----------          ----------
+  '          '        '          '
+  *          *        *          *
+  '          '        '          '
+ ---        ---      ---        ---        
+'   '      '   '    '   '      '   '
+*   *      *   *    *   *      *   *
 ```
 
-## a\* dijkstra
+**BFS Example: first 8 nodes found**
 
-pass
+```text
+        Breadth First Search
+                  1
+                  '
+         -------------------
+        '                   '
+        2                   3
+        '                   '
+   ----------          ----------
+  '          '        '          '
+  4          5        6          7
+  '          '        '          '
+ ---        ---      ---        ---        
+'   '      '   '    '   '      '   '
+8   *      *   *    *   *      *   *
 
 
+
+
+
+```
+
+**DFS Example: first 4 nodes found**
+
+```text
+          Depth First Search
+                  1
+                  '
+         -------------------
+        '                   '
+        2                   *
+        '                   '
+   ----------          ----------
+  '          '        '          '
+  3          *        *          *
+  '          '        '          '
+ ---        ---      ---        ---        
+'   '      '   '    '   '      '   '
+4   *      *   *    *   *      *   *
+```
 
