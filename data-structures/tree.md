@@ -12,20 +12,10 @@ A **Tree** is a collection of nodes in a hierarchical tree structure. nodes = el
 
 ## Fork in the Road 🐾 
 
-In a **Binary** \(left or right\) **Tree**,
-
-* _Root \(current\) node_
-  * _Root -&gt; Left_
-    * _Root -&gt; Left -&gt; Left_
-    * _Root -&gt; Left -&gt; Right_
-  * _Root -&gt; Right_
-    * _Root -&gt; Right -&gt; Left_
-    * _Root -&gt; Right -&gt; Right_ 
-
-The root node connects to a left node and a right node. The left node then connects to a left node and a right node. The right node also connects to a left node and a right node. and etc etc...
+In a **Binary "**left or right" **Tree**, \(start with looking at the picture first\) the root node connects to a left node and a right node. The left node then connects to a left node and a right node. The right node also connects to a left node and a right node. and etc etc...
 
 ```text
-             Start
+        Start (Root Node)
                '
        -------------------
       '                   '
@@ -38,7 +28,7 @@ C           D       E           F
 
 ## Folder -&gt; Folder -&gt; File 📁 📂 
 
-If you are a Windows , Mac, or Linux user, think a **File System**. A file system is a **Tree** data structure. 
+If you are a Windows , Mac, or Linux user, think of a **File System**. A file system is a **Tree** data structure. 
 
 Using """No Code Computer Science""" folder as an example:
 
@@ -63,5 +53,5 @@ Trees are great for searching, every level deeper in the tree results in cutting
 
 * _1000 nodes -&gt; 500 nodes -&gt; 250 nodes -&gt; 125 nodes -&gt;  60 nodes  -&gt; 30 nodes -&gt; 16 nodes -&gt; 8 nodes -&gt;  4 nodes -&gt; 2 nodes -&gt; 1 node_ 
 
-A **Tree** is useful when the data is evenly distributed throughout the tree for quick search. If a tree stored all data only on the right side, then you would have a linked list and quickly finding nodes would be extremely slow. 
+A **Tree** is useful when the data is evenly distributed throughout the tree for quick search. If a tree stored all data only on the right side, then you would have a linked list data structure and not a tree data structure. 
 

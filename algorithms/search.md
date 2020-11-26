@@ -18,7 +18,7 @@ A Search Algorithm finds something.
 * Matching a single sock to the pair in a pile of laundry 🧦 
 * Checking out the old photo album with grandma 👵 
 
-🚀**Binary Search** is an algorithm which continually splits a ordered list in half until the item is found. 
+🚀**Binary Search** is an algorithm which continually splits an ordered list in half until the item is found. 
 
 * Finding a specific page number in a book 📖 
   * A person would look like so to find a specific page number

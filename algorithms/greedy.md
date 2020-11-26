@@ -12,20 +12,20 @@ A **Greedy** Algorithm always takes the best possible local option available.
 
 ## Greedy is Good? 🤩 
 
-A Greedy algorithm is very useful when choosing between obvious right and obvious wrong choices that dont change throughout the algorithm.
+A Greedy algorithm is very useful when choosing between clear right and wrong choices that do not change throughout the algorithms completion.
 
-* Good 😄 
-  * Choosing career based on total salary
-  * Choosing meal based on the biggest size
+* Greedy will work😄 
+  * Choosing a career based on total salary
+  * Choosing a meal based on the biggest size
   * Choosing a product based on price
-* Bad 🤮 
-  * Choosing career based on happiness
-  * Choosing meal based on taste
+* Greedy will **Not** work🤮 
+  * Choosing a career based on happiness
+  * Choosing a meal based on taste
   * Choosing a product based on quality
 
 ## 🤖**Lets Create A Wall Street Trading Bot**🤖 
 
-The wall street trading bot is using a simple **Greedy** algorithm which is: _Buy Low & Sell High_. With this greedy algorithm the trading bot plans to maximize profit. To give the bot a chance against all of the wall street pros. The bot will be given the next five days of stock prices for a specific company. 
+The wall street trading bot is using a simple **Greedy** algorithm which is: _Buy Low & Sell High_. With this greedy algorithm the trading bot plans to maximize profit. To give the bot a chance against all of the wall street "Bulls". The bot will be given the next five days of stock prices for a specific company. 
 
 * Stock prices for the next 5 days 
   * $11, $8, $18, $4, $12
@@ -59,20 +59,20 @@ The **greedy** part of the algorithm is always "greedily" moving forward, this w
 * Good👾 
   * Simple strategy
   * Easy to implement
-  * Mario will be fast
+  * Mario will complete levels fast
 * Bad 💩 
   * Mario will **Not** find 
     * Secrets
     * Bonus content
   * Faster solutions are possible with shortcuts
 * Ugly☠ 
-  * Unforeseen Circumstance
-    * Unique enemy \(Bowser\)
-      * Can **Not** defeat using normal jump attacks
-    * Unique level \(Swim\) 
-      * Can **Not** navigate using normal controls
-    * Unique puzzle \(collect keys\)
-      * Can **Not** win without doing something
+  * Unforeseen circumstance can make the game unbeatable
+  * Unique enemy \(Bowser\)
+    * Can **Not** defeat using normal jump attacks
+  * Unique level \(Swim\) 
+    * Can **Not** navigate using normal controls
+  * Unique puzzle \(collect keys\)
+    * Can **Not** win without doing something
 
 \_\_💰A **Greedy** Algorithm can be short sighted💰 
 
