@@ -19,7 +19,7 @@ description: Data Structures are a way to organize information
 
 **Array**: is an ordered list
 
-* Creating a line 🍔 ****🚶 🚶♀ 🚶♂ 🚶 🚶♀ 🚶♂ 
+* Creating a line 🍔 ****🚶 🚶♀ 🚶♂ 
 * Shopping list 🛒 
 
 **Dictionaries**: is a collection of key value pairs
