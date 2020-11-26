@@ -6,33 +6,36 @@ description: Data Structures are a way to organize information
 
 ## What are Data Structures? 🗃 
 
-Data Structures are a way to organize, access, search, add, remove & store information.
+**Data Structures** are a way to organize, access, search, add, remove & store information.
 
 ![Day 1 of Kindergarten](../.gitbook/assets/gautam-arora-78ae6n7rnvi-unsplash.jpg)
 
 ## Lets Go Back to Kindergarten🎒
 
-**Primitives**: The numbers 1 through 9
+**Primitives**: The simplest type of data
 
-* _learning the ABCs and the 123s_ 👶
+* learning the ABCs and the 123s 👶
+* The basic building blocks 🧱 
 
-**Array**: The way to form a line, who is in front/back of the line, who leaves first/last and how to join a line 
+**Array**: is an ordered list
 
-* _Creating a line_ 🍔 ****🚶 🚶♀ 🚶♂ 🚶 🚶♀ 🚶♂ 
+* Creating a line 🍔 ****🚶 🚶♀ 🚶♂ 🚶 🚶♀ 🚶♂ 
+* Shopping list 🛒 
 
-**Dictionaries**: The cubbies that match our name are the cubbies we have access to
+**Dictionaries**: is a collection of key value pairs
 
-* _Storing packed lunches_ 🗝 📥 📤 
+* Storing packed lunches in a classroom 🗝 📥 📤 
 
-**Linked List**: How to count from 1 to 10
+**Linked List**: is a linear list
 
-* _Counting to 10_ ☝ ✌ 🤟
+* Counting to 10 ☝ ✌ 🤟
 
-**Tree**: The last day of school is on what year, what month, what day?
+**Tree**: is data in a hierarchical tree structure
 
 * Finding events in the calendar 📆
+  * Year -&gt; Month -&gt; Day
 
-**Network**: How students/teachers interact with other students.
+**Network**: is a collection of connected things
 
-* _Teacher student interactions & behavior_ 👥 __
+* Teacher student interactions & behavior 👥 
 
