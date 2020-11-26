@@ -1,5 +1,5 @@
 ---
-description: Big O Notation classifies types of algorithms by there speed.
+description: Big O Notation classifies algorithms by their speed.
 ---
 
 # Big O Notation
