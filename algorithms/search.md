@@ -93,11 +93,6 @@ Binary Search:
  ---        ---      ---        ---        
 '   '      '   '    '   '      '   '
 8   *      *   *    *   *      *   *
-
-
-
-
-
 ```
 
 **DFS Example: first 4 nodes found**
